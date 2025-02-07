@@ -1,0 +1,3 @@
+# Expo CLI Android Build Error
+
+This repository demonstrates an uncommon error encountered during the Android build process using the Expo CLI. The error is related to incompatibilities between the Expo SDK version, the Android Gradle Plugin version, or missing dependencies.  The `bug.js` file shows an example project setup that might trigger the error. The `bugSolution.js` file demonstrates solutions to address the problem.
